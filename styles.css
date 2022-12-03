@@ -181,8 +181,16 @@ footer .row {
 }
 
 @media (max-width: 1200px) {
+    header {
+        padding: 250px 0;
+    }
+
     img {
         margin: 35px;
+    }
+
+    button {
+        margin: 10px 0 30px 0;
     }
 
     .description {
