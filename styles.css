@@ -167,8 +167,8 @@ footer .row {
     margin-bottom: 20px;
 }
 
-.about,
-.activities {
+#about,
+#activities {
     background: #d8d5d265;
 }
 
@@ -261,7 +261,7 @@ footer .row {
     }
 
     .contactDetails p {
-        font-size: 25px;
+        font-size: 20px;
     }
 }
 
@@ -285,8 +285,11 @@ footer .row {
         margin: 0;
         padding: 40px;
     }
-
+    h5 {
+        font-size: 20px;
+    }
     button {
+        font-size: 18px;
         padding: 10px 70px;
         margin: 10px 0 30px 0;
     }
@@ -317,5 +320,8 @@ footer .row {
     .description p {
         font-size: 13px;
         margin-bottom: 25px;
+    }
+    .contactDetails p {
+        font-size: 15px;
     }
 }
